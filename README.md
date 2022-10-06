@@ -11,3 +11,7 @@ Vous travaillez pour l'agence La Panthère, une grande agence de web design bas�
 Ceci est un projet d'apprentissage individuel dans le cadre d'une formation, il servira à évaluer mes compétences.
 
 S'il vous plait, ne le modifiez pas, merci.
+
+## Branch "site-non-modifie"
+
+Le Branche "site-non-modifie" est celle où l'on fait les tests "avant" pour mesurer l'amélioration du site.
