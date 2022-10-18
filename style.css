@@ -779,8 +779,8 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #EE6C2F; /*#F3976C;*/
-    color: #FFFFFF!important;
+    background: #F3976C;/* #EE6C2F;  */
+    color:#000!important;/* #FFFFFF!important; */
     font-weight: bold;
 }
 
