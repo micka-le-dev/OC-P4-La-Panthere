@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h4 a,
 .d-bloc h5 a,
 .d-bloc h6 a,
-.d-bloc p a {
+.d-bloc p a{
     color: #575757;
 }
 
@@ -680,7 +680,18 @@ a {
 p {
     font-size: 14px;
 }
-
+.citation{
+    color:#000;
+    font-size: 18px;
+}
+cite::before,
+cite::after{
+    content: '"';
+}
+cite + .auteur,
+cite + br + .auteur{
+    color: #808080;
+}
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
