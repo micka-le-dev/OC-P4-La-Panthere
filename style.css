@@ -677,6 +677,11 @@ a {
     margin: auto auto auto auto;
 }
 
+.quasi-rond{
+    background-color: #fff;
+    border-radius: 45%;
+}
+
 p {
     font-size: 14px;
 }
@@ -841,7 +846,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 footer *{
