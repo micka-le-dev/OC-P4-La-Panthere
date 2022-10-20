@@ -294,18 +294,20 @@ a:hover {
 }
 
 .navbar-brand {
-    height: auto;
     padding: 3px 15px;
     font-size: 25px;
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
+    height: 60px;
+    width: 300px;
+    margin-left: -30px;
+    display: flex;
+    align-items: center;
 }
 
 .navbar-brand img {
-    max-height: 200px;
-    margin: 0 5px 0 0;
-    display: inline;
+    transform: scale(1.2);
 }
 
 .navbar-brand img[src$=svg] {
