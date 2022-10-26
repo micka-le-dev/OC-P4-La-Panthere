@@ -702,7 +702,7 @@ cite::after{
 }
 cite + .auteur,
 cite + br + .auteur{
-    color: #808080;
+    color: #757575;
 }
 .tight-width-whitespace {
     max-width: 600px;
